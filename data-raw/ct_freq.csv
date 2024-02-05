@@ -1,0 +1,219 @@
+culture,region,domain,mode,process
+Yahgan,South America,cultural values,oblique,teaching.storytelling
+Warao,South America,cultural values,oblique,teaching
+Warao,South America,cultural values,vertical,teaching
+Semang,Asia,cultural values,horizontal,observation and imitation
+Semang,Asia,cultural values,oblique,teaching
+San,Africa,cultural values,horizontal,collaborative learning.role playing
+San,Africa,cultural values,oblique,stimuls enhancement
+San,Africa,cultural values,oblique,teaching
+San,Africa,cultural values,oblique.concerted,teaching
+San,Africa,cultural values,vertical,teaching
+San,Africa,cultural values,oblique,teaching.storytelling
+San,Africa,cultural values,uknown,teaching.storytelling
+Ona,South America,cultural values,oblique,observation and imitation
+Ona,South America,cultural values,vertical,observation and imitation
+Ona,South America,cultural values,oblique,teaching
+Ona,South America,cultural values,vertical,teaching
+Okiek,Africa,cultural values,oblique,teaching
+Okiek,Africa,cultural values,vertical,teaching
+Ojibwa,North America,cultural values,vertical,observation and imitation
+Ojibwa,North America,cultural values,oblique,teaching
+Ojibwa,North America,cultural values,vertical,teaching
+Norther Paiute,North America,cultural values,vertical,observation and imitation
+Norther Paiute,North America,cultural values,oblique,teaching
+Norther Paiute,North America,cultural values,vertical,teaching
+Mikmaq,North America,cultural values,uknown,observation and imitation
+Mikmaq,North America,cultural values,oblique,teaching.storytelling
+Mbuti,Africa,cultural values,horizontal,collaborative learning
+Mbuti,Africa,cultural values,oblique,teaching.storytelling
+Innu,North America,cultural values,uknown,teaching
+Copper Inuit,North America,cultural values,vertical,teaching
+Bororo,South America,cultural values,oblique,teaching.storytelling
+Aranda,Oceania,cultural values,oblique.concerted,teaching
+Aranda,Oceania,cultural values,vertical,teaching
+Aluet,North America,cultural values,oblique,teaching
+Aluet,North America,cultural values,vertical,teaching
+Abipon,South America,cultural values,vertical,teaching
+Semang,Asia,ecology,vertical,local enhancement
+Semang,Asia,ecology,vertical,teaching
+San,Africa,ecology,vertical,local enhancement
+San,Africa,ecology,uknown,observation and imitation
+San,Africa,ecology,vertical,teaching
+Ojibwa,North America,ecology,oblique,teaching.storytelling
+Chipewayns,North America,ecology,vertical,teaching.guidance
+Bororo,South America,ecology,uknown,teaching.storytelling
+Aranda,Oceania,ecology,oblique,teaching.guidance
+Aranda,Oceania,ecology,vertical,teaching.guidance
+Aranda,Oceania,ecology,oblique.concerted,teaching.storytelling
+Aranda,Oceania,ecology,vertical,teaching.storytelling
+Andamans,Asia,ecology,oblique,local enhancement
+Aluet,North America,ecology,oblique.prestige bias,teaching
+San,Africa,language,oblique,teaching
+Ojibwa,North America,language,oblique,observation and imitation
+Bororo,South America,language,vertical,teaching
+Warao,South America,manufacturing,oblique,observation and imitation
+Warao,South America,manufacturing,vertical,observation and imitation
+Warao,South America,manufacturing,vertical,teaching.guidance
+Tiwi,Oceania,manufacturing,horizontal,observation and imitation
+Tiwi,Oceania,manufacturing,oblique,observation and imitation
+Tiwi,Oceania,manufacturing,oblique,teaching
+Semang,Asia,manufacturing,vertical,teaching
+Ona,South America,manufacturing,vertical,teaching
+Okiek,Africa,manufacturing,vertical,teaching
+Ojibwa,North America,manufacturing,vertical,observation and imitation
+Ojibwa,North America,manufacturing,oblique,teaching
+Ojibwa,North America,manufacturing,oblique.prestige bias,teaching
+Ojibwa,North America,manufacturing,vertical,teaching
+Mikmaq,North America,manufacturing,vertical,observation and imitation
+Mikmaq,North America,manufacturing,oblique,teaching
+Kaska,North America,manufacturing,horizontal,observation and imitation
+Kaska,North America,manufacturing,oblique,observation and imitation
+Kaska,North America,manufacturing,vertical,observation and imitation
+Copper Inuit,North America,manufacturing,oblique,observation and imitation
+Copper Inuit,North America,manufacturing,vertical,observation and imitation
+Chipewayns,North America,manufacturing,vertical,observation and imitation
+Chipewayns,North America,manufacturing,vertical,teaching.guidance
+Bororo,South America,manufacturing,oblique,teaching
+Bororo,South America,manufacturing,vertical,teaching
+Andamans,Asia,manufacturing,vertical,teaching
+Andamans,Asia,manufacturing,uknown,trial and error
+Aluet,North America,manufacturing,vertical,teaching
+Ainu,Asia,manufacturing,vertical,teaching
+Yahgan,South America,miscellaneous skills,vertical,observation and imitation
+Yahgan,South America,miscellaneous skills,vertical,teaching.guidance
+Warao,South America,miscellaneous skills,oblique,observation and imitation
+Warao,South America,miscellaneous skills,uknown,stimuls enhancement
+Warao,South America,miscellaneous skills,oblique,teaching.guidance
+Tiwi,Oceania,miscellaneous skills,uknown,observation and imitation
+Tiwi,Oceania,miscellaneous skills,uknown,stimuls enhancement
+Siriono,South America,miscellaneous skills,oblique,observation and imitation
+San,Africa,miscellaneous skills,oblique,observation and imitation
+San,Africa,miscellaneous skills,oblique.concerted,teaching
+San,Africa,miscellaneous skills,oblique,teaching.guidance
+Ona,South America,miscellaneous skills,horizontal,collaborative learning
+Mbuti,Africa,miscellaneous skills,horizontal,collaborartive learning.play
+Mbuti,Africa,miscellaneous skills,vertical,observation and imitation
+Mbuti,Africa,miscellaneous skills,oblique,teaching
+Mbuti,Africa,miscellaneous skills,horizontal,teaching.guidance
+Mbuti,Africa,miscellaneous skills,oblique.concerted,teaching.guidance
+Kaska,North America,miscellaneous skills,uknown,trial and error
+Aranda,Oceania,miscellaneous skills,oblique,teaching
+Aranda,Oceania,miscellaneous skills,uknown,trial and error
+Aluet,North America,miscellaneous skills,oblique,teaching
+Aluet,North America,miscellaneous skills,oblique.prestige bias,teaching
+Aluet,North America,miscellaneous skills,oblique,teaching.guidance
+Aluet,North America,miscellaneous skills,uknown,teaching.guidance
+Abipon,South America,miscellaneous skills,vertical,teaching
+Yahgan,South America,religious,oblique.concerted,teaching
+Tiwi,Oceania,religious,uknown,observation and imitation
+Tiwi,Oceania,religious,oblique.concerted,teaching
+San,Africa,religious,horizontal,collaborative learning
+San,Africa,religious,horizontal,collaborative learning.role playing
+San,Africa,religious,vertical,stimuls enhancement
+San,Africa,religious,oblique.concerted,teaching.storytelling
+San,Africa,religious,uknown,trial and error
+Ona,South America,religious,oblique.concerted,teaching
+Ona,South America,religious,oblique,teaching.storytelling
+Ojibwa,North America,religious,vertical,teaching
+Ojibwa,North America,religious,oblique,teaching.storytelling
+Norther Paiute,North America,religious,vertical,observation and imitation
+Norther Paiute,North America,religious,vertical,teaching
+Mbuti,Africa,religious,oblique.concerted,teaching.guidance
+Innu,North America,religious,oblique,observation and imitation
+Innu,North America,religious,oblique,teaching.storytelling
+Bororo,South America,religious,oblique,teaching
+Bororo,South America,religious,vertical,teaching
+Bororo,South America,religious,oblique,teaching.storytelling
+Aranda,Oceania,religious,oblique,teaching
+Aranda,Oceania,religious,oblique.concerted,teaching
+Aranda,Oceania,religious,oblique,teaching.guidance
+Aranda,Oceania,religious,uknown,teaching.guidance
+Aranda,Oceania,religious,oblique.concerted,teaching.storytelling
+Aranda,Oceania,religious,oblique,trial and error
+Andamans,Asia,religious,oblique,teaching
+Andamans,Asia,religious,vertical,teaching
+Aluet,North America,religious,oblique,teaching
+Aluet,North America,religious,vertical,teaching
+Yahgan,South America,subsistence,oblique,teaching
+Warao,South America,subsistence,horizontal,collaborative learning
+Warao,South America,subsistence,vertical,teaching
+Warao,South America,subsistence,oblique,teaching.guidance
+Veda,Asia,subsistence,oblique,collaborative learning.role playing
+Veda,Asia,subsistence,oblique,local enhancement
+Veda,Asia,subsistence,oblique,observation and imitation
+Veda,Asia,subsistence,oblique,teaching.guidance
+Tiwi,Oceania,subsistence,horizontal,observation and imitation
+Tiwi,Oceania,subsistence,oblique,observation and imitation
+Tiwi,Oceania,subsistence,oblique.concerted,teaching
+Tiwi,Oceania,subsistence,uknown,teaching
+Siriono,South America,subsistence,vertical,stimuls enhancement
+Siriono,South America,subsistence,vertical,teaching.guidance
+Semang,Asia,subsistence,vertical,observation and imitation
+Semang,Asia,subsistence,vertical,teaching
+San,Africa,subsistence,horizontal,collaborartive learning.play
+San,Africa,subsistence,oblique,collaborartive learning.play
+San,Africa,subsistence,horizontal,collaborative learning
+San,Africa,subsistence,horizontal,collaborative learning.role playing
+San,Africa,subsistence,horizontal,local enhancement
+San,Africa,subsistence,oblique,local enhancement
+San,Africa,subsistence,vertical,local enhancement
+San,Africa,subsistence,oblique,observation and imitation
+San,Africa,subsistence,uknown,observation and imitation
+San,Africa,subsistence,vertical,observation and imitation
+San,Africa,subsistence,vertical,stimuls enhancement
+San,Africa,subsistence,oblique,teaching
+San,Africa,subsistence,oblique.concerted,teaching
+San,Africa,subsistence,vertical,teaching
+San,Africa,subsistence,oblique,teaching.guidance
+San,Africa,subsistence,vertical,teaching.guidance
+San,Africa,subsistence,oblique,teaching.storytelling
+San,Africa,subsistence,horizontal,trial and error
+San,Africa,subsistence,uknown,trial and error
+Ona,South America,subsistence,uknown,stimuls enhancement
+Ona,South America,subsistence,vertical,teaching
+Ona,South America,subsistence,oblique,teaching.guidance
+Okiek,Africa,subsistence,vertical,teaching
+Okiek,Africa,subsistence,oblique,teaching.guidance
+Ojibwa,North America,subsistence,vertical,observation and imitation
+Ojibwa,North America,subsistence,oblique,teaching
+Ojibwa,North America,subsistence,vertical,teaching
+Ojibwa,North America,subsistence,vertical,teaching.guidance
+Norther Paiute,North America,subsistence,vertical,teaching
+Mikmaq,North America,subsistence,vertical,observation and imitation
+Mikmaq,North America,subsistence,oblique,teaching.guidance
+Mbuti,Africa,subsistence,horizontal,collaborartive learning.play
+Mbuti,Africa,subsistence,oblique,collaborative learning
+Mbuti,Africa,subsistence,horizontal,collaborative learning.role playing
+Mbuti,Africa,subsistence,uknown,observation and imitation
+Mbuti,Africa,subsistence,oblique,teaching.guidance
+Mbuti,Africa,subsistence,oblique,teaching
+Kaska,North America,subsistence,horizontal,observation and imitation
+Kaska,North America,subsistence,oblique,observation and imitation
+Kaska,North America,subsistence,vertical,observation and imitation
+Innu,North America,subsistence,vertical,observation and imitation
+Copper Inuit,North America,subsistence,horizontal,collaborartive learning.play
+Copper Inuit,North America,subsistence,vertical,observation and imitation
+Chipewayns,North America,subsistence,oblique,observation and imitation
+Chipewayns,North America,subsistence,vertical,observation and imitation
+Chipewayns,North America,subsistence,oblique,teaching.guidance
+Chipewayns,North America,subsistence,vertical,teaching.guidance
+Bororo,South America,subsistence,vertical,stimuls enhancement
+Bororo,South America,subsistence,oblique,teaching
+Bororo,South America,subsistence,vertical,teaching
+Aranda,Oceania,subsistence,uknown,observation and imitation
+Aranda,Oceania,subsistence,vertical,observation and imitation
+Aranda,Oceania,subsistence,oblique,teaching
+Aranda,Oceania,subsistence,vertical,teaching
+Andamans,Asia,subsistence,oblique,local enhancement
+Andamans,Asia,subsistence,vertical,local enhancement
+Andamans,Asia,subsistence,vertical,stimuls enhancement
+Andamans,Asia,subsistence,vertical,teaching
+Andamans,Asia,subsistence,uknown,trial and error
+Aluet,North America,subsistence,horizontal,collaborartive learning.play
+Aluet,North America,subsistence,oblique,teaching
+Aluet,North America,subsistence,oblique.prestige bias,teaching
+Aluet,North America,subsistence,vertical,teaching
+Aluet,North America,subsistence,vertical,teaching.guidance
+Aluet,North America,subsistence,oblique.concerted,teaching.storytelling
+Abipon,South America,subsistence,vertical,teaching

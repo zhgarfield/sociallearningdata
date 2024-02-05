@@ -1,0 +1,282 @@
+name,latitude,longitude,region,subregion,cs_ID,cs_textrec_ID,age.of.learner,domain,mode,process,sex
+Aluet,55,-164,North America,Arctic and Subarctic,281,345,middle childhood,cultural values,vertical,teaching,general
+Aluet,55,-164,North America,Arctic and Subarctic,287,349,early childhood,cultural values,vertical,teaching,male
+Aluet,55,-164,North America,Arctic and Subarctic,289,349,middle childhood,cultural values,vertical,teaching,female
+Aluet,55,-164,North America,Arctic and Subarctic,292,352,childhood,cultural values,oblique,teaching,male
+Norther Paiute,44,-119,North America,Southwest and Basin,359,419,childhood,cultural values,vertical,observation and imitation,general
+Norther Paiute,44,-119,North America,Southwest and Basin,357,418,non-specific,cultural values,vertical,teaching,general
+Norther Paiute,44,-119,North America,Southwest and Basin,358,419,childhood,cultural values,vertical,teaching,general
+Norther Paiute,44,-119,North America,Southwest and Basin,360,420,adolecence,cultural values,oblique,teaching,female
+Norther Paiute,44,-119,North America,Southwest and Basin,361,420,adolecence,cultural values,vertical,teaching,female
+Copper Inuit,69,-111.5,North America,Arctic and Subarctic,308,359,childhood,cultural values,vertical,teaching,female
+Ojibwa,52,-95.5,North America,Arctic and Subarctic,337,373,childhood,cultural values,vertical,observation and imitation,general
+Ojibwa,52,-95.5,North America,Arctic and Subarctic,323,366,childhood,cultural values,oblique,teaching,general
+Ojibwa,52,-95.5,North America,Arctic and Subarctic,325,367,childhood,cultural values,vertical,teaching,female
+Ojibwa,52,-95.5,North America,Arctic and Subarctic,333,370,childhood,cultural values,vertical,teaching,general
+Ojibwa,52,-95.5,North America,Arctic and Subarctic,336,372,childhood,cultural values,vertical,teaching,general
+Ojibwa,52,-95.5,North America,Arctic and Subarctic,345,377,adolecence,cultural values,vertical,teaching,both
+Innu,50,-74,North America,Arctic and Subarctic,315,364,childhood,cultural values,uknown,teaching,general
+Yahgan,-55.5,-69.5,South America,Southern South America,272,342,adolecence,cultural values,oblique,teaching.storytelling,female
+Ona,-54.5,-67.5,South America,Southern South America,260,331,childhood,cultural values,vertical,observation and imitation,both
+Ona,-54.5,-67.5,South America,Southern South America,261,331,childhood,cultural values,oblique,observation and imitation,both
+Ona,-54.5,-67.5,South America,Southern South America,255,327,non-specific,cultural values,oblique,teaching,male
+Ona,-54.5,-67.5,South America,Southern South America,259,330,childhood,cultural values,vertical,teaching,general
+Ona,-54.5,-67.5,South America,Southern South America,262,332,childhood,cultural values,vertical,teaching,general
+Ona,-54.5,-67.5,South America,Southern South America,264,334,childhood,cultural values,oblique,teaching,general
+Ona,-54.5,-67.5,South America,Southern South America,265,334,childhood,cultural values,vertical,teaching,general
+Bororo,-16.5,-65.8,South America,Eastern South America,239,321,childhood,cultural values,oblique,teaching.storytelling,male
+Mikmaq,46,-63,North America,Eastern Woodlands,346,379,childhood,cultural values,uknown,observation and imitation,general
+Mikmaq,46,-63,North America,Eastern Woodlands,350,380,childhood,cultural values,oblique,teaching.storytelling,female
+Warao,9,-62,South America,Amazon and Orinoco,235,318,all ages,cultural values,vertical,teaching,general
+Warao,9,-62,South America,Amazon and Orinoco,236,318,adolecence,cultural values,oblique,teaching,male
+Abipon,-29,-61,South America,Southern South America,250,325,childhood,cultural values,vertical,teaching,general
+Abipon,-29,-61,South America,Southern South America,252,326,childhood,cultural values,vertical,teaching,general
+San,-20,21,Africa,Southern Africa,156,254,childhood,cultural values,horizontal,collaborative learning.role playing,general
+San,-20,21,Africa,Southern Africa,170,264,infancy,cultural values,oblique,stimuls enhancement,general
+San,-20,21,Africa,Southern Africa,133,243,early childhood,cultural values,vertical,teaching,female
+San,-20,21,Africa,Southern Africa,141,247,early childhood,cultural values,oblique,teaching,general
+San,-20,21,Africa,Southern Africa,143,248,non-specific,cultural values,oblique.concerted,teaching,male
+San,-20,21,Africa,Southern Africa,153,253,childhood,cultural values,vertical,teaching,general
+San,-20,21,Africa,Southern Africa,159,257,adolecence,cultural values,oblique,teaching,female
+San,-20,21,Africa,Southern Africa,379,256,non-specific,cultural values,oblique.concerted,teaching,female
+San,-20,21,Africa,Southern Africa,132,242,non-specific,cultural values,uknown,teaching.storytelling,general
+San,-20,21,Africa,Southern Africa,166,261,childhood,cultural values,oblique,teaching.storytelling,general
+Mbuti,1.5,28.5,Africa,Central Africa,113,230,childhood,cultural values,horizontal,collaborative learning,general
+Mbuti,1.5,28.5,Africa,Central Africa,122,235,childhood,cultural values,horizontal,collaborative learning,female
+Mbuti,1.5,28.5,Africa,Central Africa,123,236,childhood,cultural values,horizontal,collaborative learning,male
+Mbuti,1.5,28.5,Africa,Central Africa,114,231,early childhood,cultural values,oblique,teaching.storytelling,general
+Okiek,-0.67,36,Africa,Eastern Africa,394,421,childhood,cultural values,vertical,teaching,general
+Okiek,-0.67,36,Africa,Eastern Africa,396,423,childhood,cultural values,vertical,teaching,general
+Okiek,-0.67,36,Africa,Eastern Africa,397,423,childhood,cultural values,oblique,teaching,general
+Okiek,-0.67,36,Africa,Eastern Africa,399,424,childhood,cultural values,vertical,teaching,both
+Okiek,-0.67,36,Africa,Eastern Africa,402,425,middle childhood,cultural values,vertical,teaching,female
+Okiek,-0.67,36,Africa,Eastern Africa,403,425,middle childhood,cultural values,oblique,teaching,both
+Semang,5,101,Asia,Southeast Asia,185,270,childhood,cultural values,horizontal,observation and imitation,general
+Semang,5,101,Asia,Southeast Asia,191,273,childhood,cultural values,oblique,teaching,general
+Aranda,-24.25,133.5,Oceania,Australia,203,280,adolecence,cultural values,oblique.concerted,teaching,male
+Aranda,-24.25,133.5,Oceania,Australia,208,285,non-specific,cultural values,vertical,teaching,general
+Aluet,55,-164,North America,Arctic and Subarctic,298,353,non-specific,ecology,oblique.prestige bias,teaching,male
+Ojibwa,52,-95.5,North America,Arctic and Subarctic,335,371,middle childhood,ecology,oblique,teaching.storytelling,general
+Bororo,-16.5,-65.8,South America,Eastern South America,240,322,childhood,ecology,uknown,teaching.storytelling,general
+San,-20,21,Africa,Southern Africa,366,244,childhood,ecology,vertical,local enhancement,female
+San,-20,21,Africa,Southern Africa,374,252,early childhood,ecology,uknown,observation and imitation,general
+San,-20,21,Africa,Southern Africa,137,244,childhood,ecology,vertical,teaching,female
+San,-20,21,Africa,Southern Africa,375,252,early childhood,ecology,vertical,teaching,male
+Andamans,12,92.74,Asia,South Asia,176,267,childhood,ecology,oblique,local enhancement,both
+Semang,5,101,Asia,Southeast Asia,189,272,childhood,ecology,vertical,local enhancement,general
+Semang,5,101,Asia,Southeast Asia,188,271,early childhood,ecology,vertical,teaching,general
+Chipewayns,59,106,North America,Arctic and Subarctic,306,358,adolecence,ecology,vertical,teaching.guidance,male
+Aranda,-24.25,133.5,Oceania,Australia,194,275,childhood,ecology,vertical,teaching.guidance,general
+Aranda,-24.25,133.5,Oceania,Australia,362,275,childhood,ecology,oblique,teaching.guidance,general
+Aranda,-24.25,133.5,Oceania,Australia,199,279,childhood,ecology,vertical,teaching.storytelling,male
+Aranda,-24.25,133.5,Oceania,Australia,200,279,adolecence,ecology,oblique.concerted,teaching.storytelling,male
+Ojibwa,52,-95.5,North America,Arctic and Subarctic,338,374,childhood,language,oblique,observation and imitation,general
+Bororo,-16.5,-65.8,South America,Eastern South America,241,323,childhood,language,vertical,teaching,general
+San,-20,21,Africa,Southern Africa,131,241,early childhood,language,oblique,teaching,general
+San,-20,21,Africa,Southern Africa,165,260,infancy,language,oblique,teaching,general
+Aluet,55,-164,North America,Arctic and Subarctic,294,352,childhood,manufacturing,vertical,teaching,female
+Copper Inuit,69,-111.5,North America,Arctic and Subarctic,307,359,childhood,manufacturing,vertical,observation and imitation,female
+Copper Inuit,69,-111.5,North America,Arctic and Subarctic,310,360,childhood,manufacturing,oblique,observation and imitation,both
+Ojibwa,52,-95.5,North America,Arctic and Subarctic,328,369,early childhood,manufacturing,vertical,observation and imitation,female
+Ojibwa,52,-95.5,North America,Arctic and Subarctic,327,368,childhood,manufacturing,oblique.prestige bias,teaching,female
+Ojibwa,52,-95.5,North America,Arctic and Subarctic,331,369,early childhood,manufacturing,vertical,teaching,female
+Ojibwa,52,-95.5,North America,Arctic and Subarctic,342,376,childhood,manufacturing,vertical,teaching,female
+Ojibwa,52,-95.5,North America,Arctic and Subarctic,343,376,childhood,manufacturing,oblique,teaching,female
+Ona,-54.5,-67.5,South America,Southern South America,258,329,childhood,manufacturing,vertical,teaching,male
+Bororo,-16.5,-65.8,South America,Eastern South America,244,324,middle childhood,manufacturing,vertical,teaching,general
+Bororo,-16.5,-65.8,South America,Eastern South America,247,324,middle childhood,manufacturing,oblique,teaching,male
+Mikmaq,46,-63,North America,Eastern Woodlands,348,379,childhood,manufacturing,vertical,observation and imitation,female
+Mikmaq,46,-63,North America,Eastern Woodlands,349,380,childhood,manufacturing,oblique,teaching,male
+Warao,9,-62,South America,Amazon and Orinoco,228,314,childhood,manufacturing,vertical,observation and imitation,male
+Warao,9,-62,South America,Amazon and Orinoco,229,314,childhood,manufacturing,oblique,observation and imitation,male
+Warao,9,-62,South America,Amazon and Orinoco,232,316,childhood,manufacturing,oblique,observation and imitation,male
+Warao,9,-62,South America,Amazon and Orinoco,234,317,early childhood,manufacturing,vertical,observation and imitation,male
+Warao,9,-62,South America,Amazon and Orinoco,225,311,childhood,manufacturing,vertical,teaching.guidance,male
+Okiek,-0.67,36,Africa,Eastern Africa,401,425,middle childhood,manufacturing,vertical,teaching,male
+Andamans,12,92.74,Asia,South Asia,175,266,childhood,manufacturing,vertical,teaching,female
+Andamans,12,92.74,Asia,South Asia,385,267,childhood,manufacturing,uknown,trial and error,general
+Semang,5,101,Asia,Southeast Asia,187,270,adolecence,manufacturing,vertical,teaching,general
+Chipewayns,59,106,North America,Arctic and Subarctic,301,357,adolecence,manufacturing,vertical,observation and imitation,male
+Chipewayns,59,106,North America,Arctic and Subarctic,302,357,adolecence,manufacturing,vertical,teaching.guidance,male
+Tiwi,-11,131,Oceania,Australia,213,290,early childhood,manufacturing,horizontal,observation and imitation,male
+Tiwi,-11,131,Oceania,Australia,214,290,middle childhood,manufacturing,oblique,observation and imitation,male
+Tiwi,-11,131,Oceania,Australia,219,291,all ages,manufacturing,oblique,teaching,female
+Kaska,60,131,North America,Arctic and Subarctic,318,365,early childhood,manufacturing,vertical,observation and imitation,female
+Kaska,60,131,North America,Arctic and Subarctic,319,365,early childhood,manufacturing,horizontal,observation and imitation,female
+Kaska,60,131,North America,Arctic and Subarctic,321,365,adolecence,manufacturing,oblique,observation and imitation,male
+Ainu,43,143,Asia,East Asia,171,265,childhood,manufacturing,vertical,teaching,female
+Aluet,55,-164,North America,Arctic and Subarctic,293,352,childhood,miscellaneous skills,oblique,teaching,male
+Aluet,55,-164,North America,Arctic and Subarctic,299,353,non-specific,miscellaneous skills,oblique.prestige bias,teaching,male
+Aluet,55,-164,North America,Arctic and Subarctic,277,345,infancy,miscellaneous skills,uknown,teaching.guidance,male
+Aluet,55,-164,North America,Arctic and Subarctic,291,351,middle childhood,miscellaneous skills,oblique,teaching.guidance,male
+Yahgan,-55.5,-69.5,South America,Southern South America,273,343,early childhood,miscellaneous skills,vertical,observation and imitation,male
+Yahgan,-55.5,-69.5,South America,Southern South America,271,341,early childhood,miscellaneous skills,vertical,teaching.guidance,female
+Yahgan,-55.5,-69.5,South America,Southern South America,274,343,middle childhood,miscellaneous skills,vertical,teaching.guidance,male
+Ona,-54.5,-67.5,South America,Southern South America,266,336,all ages,miscellaneous skills,horizontal,collaborative learning,male
+Ona,-54.5,-67.5,South America,Southern South America,268,337,childhood,miscellaneous skills,horizontal,collaborative learning,general
+Siriono,-15,-64,South America,Amazon and Orinoco,221,307,childhood,miscellaneous skills,oblique,observation and imitation,general
+Warao,9,-62,South America,Amazon and Orinoco,231,315,early childhood,miscellaneous skills,oblique,observation and imitation,general
+Warao,9,-62,South America,Amazon and Orinoco,233,317,infancy,miscellaneous skills,uknown,stimuls enhancement,male
+Warao,9,-62,South America,Amazon and Orinoco,227,313,all ages,miscellaneous skills,oblique,teaching.guidance,male
+Abipon,-29,-61,South America,Southern South America,253,326,childhood,miscellaneous skills,vertical,teaching,general
+San,-20,21,Africa,Southern Africa,140,246,infancy,miscellaneous skills,oblique,observation and imitation,general
+San,-20,21,Africa,Southern Africa,383,263,adolecence,miscellaneous skills,oblique.concerted,teaching,male
+San,-20,21,Africa,Southern Africa,161,258,infancy,miscellaneous skills,oblique,teaching.guidance,general
+San,-20,21,Africa,Southern Africa,164,260,infancy,miscellaneous skills,oblique,teaching.guidance,general
+Mbuti,1.5,28.5,Africa,Central Africa,124,236,childhood,miscellaneous skills,horizontal,collaborartive learning.play,male
+Mbuti,1.5,28.5,Africa,Central Africa,130,240,childhood,miscellaneous skills,horizontal,collaborartive learning.play,general
+Mbuti,1.5,28.5,Africa,Central Africa,120,235,childhood,miscellaneous skills,vertical,observation and imitation,female
+Mbuti,1.5,28.5,Africa,Central Africa,118,233,infancy,miscellaneous skills,oblique,teaching,general
+Mbuti,1.5,28.5,Africa,Central Africa,128,238,childhood,miscellaneous skills,oblique,teaching,female
+Mbuti,1.5,28.5,Africa,Central Africa,126,237,childhood,miscellaneous skills,horizontal,teaching.guidance,general
+Mbuti,1.5,28.5,Africa,Central Africa,127,238,childhood,miscellaneous skills,oblique.concerted,teaching.guidance,female
+Tiwi,-11,131,Oceania,Australia,211,288,childhood,miscellaneous skills,uknown,observation and imitation,general
+Tiwi,-11,131,Oceania,Australia,393,289,early childhood,miscellaneous skills,uknown,stimuls enhancement,both
+Kaska,60,131,North America,Arctic and Subarctic,322,365,early childhood,miscellaneous skills,uknown,trial and error,general
+Aranda,-24.25,133.5,Oceania,Australia,388,274,childhood,miscellaneous skills,oblique,teaching,general
+Aranda,-24.25,133.5,Oceania,Australia,197,277,childhood,miscellaneous skills,uknown,trial and error,general
+Aluet,55,-164,North America,Arctic and Subarctic,280,345,middle childhood,religious,vertical,teaching,general
+Aluet,55,-164,North America,Arctic and Subarctic,284,347,childhood,religious,vertical,teaching,male
+Aluet,55,-164,North America,Arctic and Subarctic,285,347,childhood,religious,oblique,teaching,male
+Aluet,55,-164,North America,Arctic and Subarctic,296,352,childhood,religious,vertical,teaching,female
+Norther Paiute,44,-119,North America,Southwest and Basin,354,416,childhood,religious,vertical,observation and imitation,male
+Norther Paiute,44,-119,North America,Southwest and Basin,355,416,childhood,religious,vertical,teaching,male
+Norther Paiute,44,-119,North America,Southwest and Basin,356,417,childhood,religious,vertical,teaching,male
+Ojibwa,52,-95.5,North America,Arctic and Subarctic,339,375,childhood,religious,vertical,teaching,male
+Ojibwa,52,-95.5,North America,Arctic and Subarctic,334,371,middle childhood,religious,oblique,teaching.storytelling,general
+Innu,50,-74,North America,Arctic and Subarctic,314,363,childhood,religious,oblique,observation and imitation,general
+Innu,50,-74,North America,Arctic and Subarctic,313,363,childhood,religious,oblique,teaching.storytelling,general
+Yahgan,-55.5,-69.5,South America,Southern South America,276,344,adolecence,religious,oblique.concerted,teaching,male
+Ona,-54.5,-67.5,South America,Southern South America,269,338,adolecence,religious,oblique.concerted,teaching,male
+Ona,-54.5,-67.5,South America,Southern South America,263,333,childhood,religious,oblique,teaching.storytelling,general
+Bororo,-16.5,-65.8,South America,Eastern South America,237,319,non-specific,religious,vertical,teaching,male
+Bororo,-16.5,-65.8,South America,Eastern South America,245,324,middle childhood,religious,vertical,teaching,male
+Bororo,-16.5,-65.8,South America,Eastern South America,248,324,middle childhood,religious,oblique,teaching,male
+Bororo,-16.5,-65.8,South America,Eastern South America,238,320,adolecence,religious,oblique,teaching.storytelling,male
+San,-20,21,Africa,Southern Africa,155,254,childhood,religious,horizontal,collaborative learning,general
+San,-20,21,Africa,Southern Africa,138,245,early childhood,religious,horizontal,collaborative learning.role playing,male
+San,-20,21,Africa,Southern Africa,157,255,childhood,religious,vertical,stimuls enhancement,female
+San,-20,21,Africa,Southern Africa,169,263,adolecence,religious,oblique.concerted,teaching.storytelling,male
+San,-20,21,Africa,Southern Africa,367,245,early childhood,religious,uknown,trial and error,male
+Mbuti,1.5,28.5,Africa,Central Africa,129,239,adolecence,religious,oblique.concerted,teaching.guidance,female
+Andamans,12,92.74,Asia,South Asia,174,266,childhood,religious,vertical,teaching,female
+Andamans,12,92.74,Asia,South Asia,178,267,adolecence,religious,vertical,teaching,male
+Andamans,12,92.74,Asia,South Asia,179,267,adolecence,religious,oblique,teaching,male
+Tiwi,-11,131,Oceania,Australia,212,289,early childhood,religious,uknown,observation and imitation,general
+Tiwi,-11,131,Oceania,Australia,217,291,adolecence,religious,oblique.concerted,teaching,male
+Aranda,-24.25,133.5,Oceania,Australia,192,274,childhood,religious,oblique,teaching,general
+Aranda,-24.25,133.5,Oceania,Australia,202,280,adolecence,religious,oblique.concerted,teaching,male
+Aranda,-24.25,133.5,Oceania,Australia,205,282,non-specific,religious,oblique,teaching,general
+Aranda,-24.25,133.5,Oceania,Australia,206,283,non-specific,religious,oblique.concerted,teaching,general
+Aranda,-24.25,133.5,Oceania,Australia,390,284,adolecence,religious,oblique,teaching,male
+Aranda,-24.25,133.5,Oceania,Australia,198,278,childhood,religious,uknown,teaching.guidance,general
+Aranda,-24.25,133.5,Oceania,Australia,209,286,adolecence,religious,oblique,teaching.guidance,male
+Aranda,-24.25,133.5,Oceania,Australia,201,279,adolecence,religious,oblique.concerted,teaching.storytelling,male
+Aranda,-24.25,133.5,Oceania,Australia,207,284,adolecence,religious,oblique.concerted,teaching.storytelling,male
+Aranda,-24.25,133.5,Oceania,Australia,392,286,adolecence,religious,oblique,trial and error,male
+Aluet,55,-164,North America,Arctic and Subarctic,290,350,childhood,subsistence,horizontal,collaborartive learning.play,male
+Aluet,55,-164,North America,Arctic and Subarctic,282,346,adolecence,subsistence,oblique,teaching,male
+Aluet,55,-164,North America,Arctic and Subarctic,286,348,childhood,subsistence,oblique,teaching,male
+Aluet,55,-164,North America,Arctic and Subarctic,288,349,middle childhood,subsistence,vertical,teaching,male
+Aluet,55,-164,North America,Arctic and Subarctic,295,352,childhood,subsistence,vertical,teaching,female
+Aluet,55,-164,North America,Arctic and Subarctic,297,353,non-specific,subsistence,oblique.prestige bias,teaching,male
+Aluet,55,-164,North America,Arctic and Subarctic,279,345,middle childhood,subsistence,vertical,teaching.guidance,male
+Aluet,55,-164,North America,Arctic and Subarctic,283,346,adolecence,subsistence,oblique.concerted,teaching.storytelling,male
+Norther Paiute,44,-119,North America,Southwest and Basin,353,415,middle childhood,subsistence,vertical,teaching,male
+Copper Inuit,69,-111.5,North America,Arctic and Subarctic,311,360,childhood,subsistence,horizontal,collaborartive learning.play,both
+Copper Inuit,69,-111.5,North America,Arctic and Subarctic,309,359,childhood,subsistence,vertical,observation and imitation,male
+Ojibwa,52,-95.5,North America,Arctic and Subarctic,326,368,early childhood,subsistence,vertical,observation and imitation,female
+Ojibwa,52,-95.5,North America,Arctic and Subarctic,330,369,early childhood,subsistence,vertical,observation and imitation,female
+Ojibwa,52,-95.5,North America,Arctic and Subarctic,332,369,early childhood,subsistence,vertical,teaching,female
+Ojibwa,52,-95.5,North America,Arctic and Subarctic,340,376,childhood,subsistence,vertical,teaching,female
+Ojibwa,52,-95.5,North America,Arctic and Subarctic,341,376,childhood,subsistence,oblique,teaching,female
+Ojibwa,52,-95.5,North America,Arctic and Subarctic,344,377,adolecence,subsistence,oblique,teaching,both
+Ojibwa,52,-95.5,North America,Arctic and Subarctic,324,367,childhood,subsistence,vertical,teaching.guidance,female
+Innu,50,-74,North America,Arctic and Subarctic,312,362,early childhood,subsistence,vertical,observation and imitation,both
+Yahgan,-55.5,-69.5,South America,Southern South America,275,343,childhood,subsistence,oblique,teaching,male
+Ona,-54.5,-67.5,South America,Southern South America,267,337,childhood,subsistence,uknown,stimuls enhancement,general
+Ona,-54.5,-67.5,South America,Southern South America,256,328,childhood,subsistence,vertical,teaching,general
+Ona,-54.5,-67.5,South America,Southern South America,257,329,childhood,subsistence,vertical,teaching,male
+Ona,-54.5,-67.5,South America,Southern South America,254,327,non-specific,subsistence,oblique,teaching.guidance,male
+Bororo,-16.5,-65.8,South America,Eastern South America,242,324,early childhood,subsistence,vertical,stimuls enhancement,general
+Bororo,-16.5,-65.8,South America,Eastern South America,243,324,middle childhood,subsistence,vertical,teaching,general
+Bororo,-16.5,-65.8,South America,Eastern South America,246,324,middle childhood,subsistence,oblique,teaching,male
+Siriono,-15,-64,South America,Amazon and Orinoco,220,306,early childhood,subsistence,vertical,stimuls enhancement,general
+Siriono,-15,-64,South America,Amazon and Orinoco,222,308,early childhood,subsistence,vertical,teaching.guidance,male
+Mikmaq,46,-63,North America,Eastern Woodlands,347,379,childhood,subsistence,vertical,observation and imitation,female
+Mikmaq,46,-63,North America,Eastern Woodlands,351,381,childhood,subsistence,vertical,observation and imitation,both
+Mikmaq,46,-63,North America,Eastern Woodlands,352,381,childhood,subsistence,oblique,teaching.guidance,female
+Warao,9,-62,South America,Amazon and Orinoco,223,309,childhood,subsistence,horizontal,collaborative learning,general
+Warao,9,-62,South America,Amazon and Orinoco,224,310,childhood,subsistence,vertical,teaching,general
+Warao,9,-62,South America,Amazon and Orinoco,226,312,childhood,subsistence,oblique,teaching.guidance,general
+Abipon,-29,-61,South America,Southern South America,249,325,childhood,subsistence,vertical,teaching,general
+Abipon,-29,-61,South America,Southern South America,251,326,childhood,subsistence,vertical,teaching,general
+San,-20,21,Africa,Southern Africa,144,249,early childhood,subsistence,horizontal,collaborartive learning.play,male
+San,-20,21,Africa,Southern Africa,369,249,adolecence,subsistence,oblique,collaborartive learning.play,male
+San,-20,21,Africa,Southern Africa,154,254,childhood,subsistence,horizontal,collaborative learning,general
+San,-20,21,Africa,Southern Africa,368,249,childhood,subsistence,horizontal,collaborative learning.role playing,male
+San,-20,21,Africa,Southern Africa,146,249,middle childhood,subsistence,horizontal,local enhancement,male
+San,-20,21,Africa,Southern Africa,364,243,early childhood,subsistence,vertical,local enhancement,both
+San,-20,21,Africa,Southern Africa,370,249,adolecence,subsistence,oblique,local enhancement,male
+San,-20,21,Africa,Southern Africa,372,250,childhood,subsistence,vertical,local enhancement,female
+San,-20,21,Africa,Southern Africa,381,262,early childhood,subsistence,vertical,local enhancement,female
+San,-20,21,Africa,Southern Africa,139,246,infancy,subsistence,oblique,observation and imitation,general
+San,-20,21,Africa,Southern Africa,149,250,childhood,subsistence,oblique,observation and imitation,female
+San,-20,21,Africa,Southern Africa,150,251,childhood,subsistence,oblique,observation and imitation,general
+San,-20,21,Africa,Southern Africa,152,252,early childhood,subsistence,vertical,observation and imitation,general
+San,-20,21,Africa,Southern Africa,168,262,early childhood,subsistence,vertical,observation and imitation,female
+San,-20,21,Africa,Southern Africa,377,254,childhood,subsistence,uknown,observation and imitation,general
+San,-20,21,Africa,Southern Africa,134,243,childhood,subsistence,vertical,stimuls enhancement,male
+San,-20,21,Africa,Southern Africa,142,247,early childhood,subsistence,vertical,stimuls enhancement,general
+San,-20,21,Africa,Southern Africa,136,244,childhood,subsistence,vertical,teaching,female
+San,-20,21,Africa,Southern Africa,158,256,non-specific,subsistence,vertical,teaching,female
+San,-20,21,Africa,Southern Africa,160,257,adolecence,subsistence,oblique,teaching,male
+San,-20,21,Africa,Southern Africa,162,259,childhood,subsistence,vertical,teaching,general
+San,-20,21,Africa,Southern Africa,163,259,childhood,subsistence,oblique,teaching,general
+San,-20,21,Africa,Southern Africa,365,243,middle childhood,subsistence,vertical,teaching,male
+San,-20,21,Africa,Southern Africa,378,256,non-specific,subsistence,oblique.concerted,teaching,female
+San,-20,21,Africa,Southern Africa,382,263,adolecence,subsistence,oblique.concerted,teaching,male
+San,-20,21,Africa,Southern Africa,147,249,middle childhood,subsistence,vertical,teaching.guidance,male
+San,-20,21,Africa,Southern Africa,151,251,childhood,subsistence,oblique,teaching.guidance,general
+San,-20,21,Africa,Southern Africa,371,249,middle childhood,subsistence,oblique,teaching.guidance,male
+San,-20,21,Africa,Southern Africa,167,261,childhood,subsistence,oblique,teaching.storytelling,general
+San,-20,21,Africa,Southern Africa,145,249,childhood,subsistence,horizontal,trial and error,general
+San,-20,21,Africa,Southern Africa,380,259,childhood,subsistence,uknown,trial and error,general
+Mbuti,1.5,28.5,Africa,Central Africa,125,236,childhood,subsistence,horizontal,collaborartive learning.play,male
+Mbuti,1.5,28.5,Africa,Central Africa,115,231,early childhood,subsistence,oblique,collaborative learning,general
+Mbuti,1.5,28.5,Africa,Central Africa,117,232,childhood,subsistence,horizontal,collaborative learning.role playing,male
+Mbuti,1.5,28.5,Africa,Central Africa,121,235,childhood,subsistence,horizontal,collaborative learning.role playing,female
+Mbuti,1.5,28.5,Africa,Central Africa,111,229,early childhood,subsistence,uknown,observation and imitation,general
+Mbuti,1.5,28.5,Africa,Central Africa,119,234,childhood,subsistence,oblique,teaching,general
+Mbuti,1.5,28.5,Africa,Central Africa,112,230,childhood,subsistence,oblique,teaching.guidance,general
+Okiek,-0.67,36,Africa,Eastern Africa,398,424,early childhood,subsistence,vertical,teaching,both
+Okiek,-0.67,36,Africa,Eastern Africa,400,425,middle childhood,subsistence,vertical,teaching,male
+Okiek,-0.67,36,Africa,Eastern Africa,395,422,childhood,subsistence,oblique,teaching.guidance,general
+Veda,8,81,Asia,South Asia,184,269,all ages,subsistence,oblique,collaborative learning.role playing,general
+Veda,8,81,Asia,South Asia,386,269,childhood,subsistence,oblique,local enhancement,both
+Veda,8,81,Asia,South Asia,387,269,all ages,subsistence,oblique,observation and imitation,general
+Veda,8,81,Asia,South Asia,183,269,childhood,subsistence,oblique,teaching.guidance,male
+Andamans,12,92.74,Asia,South Asia,182,268,childhood,subsistence,vertical,local enhancement,female
+Andamans,12,92.74,Asia,South Asia,384,266,childhood,subsistence,oblique,local enhancement,male
+Andamans,12,92.74,Asia,South Asia,172,266,childhood,subsistence,vertical,stimuls enhancement,male
+Andamans,12,92.74,Asia,South Asia,180,268,early childhood,subsistence,vertical,stimuls enhancement,male
+Andamans,12,92.74,Asia,South Asia,173,266,childhood,subsistence,vertical,teaching,female
+Andamans,12,92.74,Asia,South Asia,177,267,childhood,subsistence,uknown,trial and error,general
+Semang,5,101,Asia,Southeast Asia,190,272,childhood,subsistence,vertical,observation and imitation,general
+Semang,5,101,Asia,Southeast Asia,186,270,adolecence,subsistence,vertical,teaching,general
+Chipewayns,59,106,North America,Arctic and Subarctic,303,358,childhood,subsistence,oblique,observation and imitation,both
+Chipewayns,59,106,North America,Arctic and Subarctic,304,358,childhood,subsistence,vertical,observation and imitation,both
+Chipewayns,59,106,North America,Arctic and Subarctic,300,356,childhood,subsistence,oblique,teaching.guidance,female
+Chipewayns,59,106,North America,Arctic and Subarctic,305,358,adolecence,subsistence,vertical,teaching.guidance,male
+Tiwi,-11,131,Oceania,Australia,215,290,early childhood,subsistence,horizontal,observation and imitation,male
+Tiwi,-11,131,Oceania,Australia,216,290,middle childhood,subsistence,oblique,observation and imitation,male
+Tiwi,-11,131,Oceania,Australia,210,287,early childhood,subsistence,uknown,teaching,both
+Tiwi,-11,131,Oceania,Australia,218,291,all ages,subsistence,oblique.concerted,teaching,female
+Kaska,60,131,North America,Arctic and Subarctic,316,365,early childhood,subsistence,vertical,observation and imitation,female
+Kaska,60,131,North America,Arctic and Subarctic,317,365,early childhood,subsistence,horizontal,observation and imitation,female
+Kaska,60,131,North America,Arctic and Subarctic,320,365,middle childhood,subsistence,oblique,observation and imitation,male
+Aranda,-24.25,133.5,Oceania,Australia,204,281,infancy,subsistence,vertical,observation and imitation,female
+Aranda,-24.25,133.5,Oceania,Australia,389,278,early childhood,subsistence,uknown,observation and imitation,general
+Aranda,-24.25,133.5,Oceania,Australia,193,274,childhood,subsistence,oblique,teaching,general
+Aranda,-24.25,133.5,Oceania,Australia,195,276,childhood,subsistence,vertical,teaching,female
+Aranda,-24.25,133.5,Oceania,Australia,196,276,childhood,subsistence,oblique,teaching,female

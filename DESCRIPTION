@@ -1,0 +1,18 @@
+Package: sociallearningdata
+Title: Hunter-Gatherer Social Learning eHRAF Data
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Zachary",
+           family = "Author",
+           role = c("aut", "cre"),
+           email = "zachary.garfield@iast.fr",
+           comment = c(ORCID = "0000-0002-1547-1492"))
+Description: This package provides research-coded measures on the domains, modes, and processes of 164 ethnographic texts discussing social learning in the eHRAF. These data were developed and introduced by Garfield et al. 2016. 
+License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
+    license
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.1
+Depends: 
+    R (>= 2.10)
