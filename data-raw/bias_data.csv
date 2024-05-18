@@ -8,6 +8,7 @@ az02-000,1995,Essay,NA,no date,not specified,12,4: Excellent secondary data,0,az
 az02-001,1922,Monograph,1907,1906-1908,not specified,504,5: Excellent primary data,0,az02
 az02-002,1932,Monograph,1874,1869-1880,not specified,256,5: Excellent primary data,0,az02
 fl20-004,1951,Journal article ,1938,1938-1939,1938-1939,48,5: Excellent primary data,0,fl20
+fl20-022,2009,Article,NA,no date,not specified,11,4: Excellent Secondary Data,1,fl20
 fo04-001,1965,Monograph,1953,"1951, 1954-1955",not specified,282,5: Excellent primary data,0,fo04
 fo04-002,1965,Monograph,1955,"1951, 1957, 1958",not specified,391,5: Excellent primary data,0,fo04
 fo04-005,1983,Monograph,1971,1970-1973,1876-1973,161,5: Excellent primary data,0,fo04
@@ -41,6 +42,7 @@ na06-073,1976,Monograph,1969,1967-1972,1945-1970,125,"4: Excellent secondary dat
 na06-074,1970,Essay,1933,1933-1934,1750-1850,301,4: Excellent secondary data,1,na06
 na06-077,1992,Component part(s) monograph,1988,1987-1990,1960-1990,449,"4: Excellent secondary data
 5: Excellent primary data",1,na06
+na10-001,1953,Book,1933,1933,1741-1933,261,5: Excellent Primary Data,0,na10
 nd07-003,1963,Monograph,1961,1960-1962,eighteenth century - 1962,115,5: Excellent primary data,0,nd07
 nd07-004,1981,Monograph,1975,1975-1976,1920-1975,196,5: Excellent primary data,0,nd07
 nd07-023,1997,Journal article ,1970,1970-1979,prehistory period - 1990s,436,"4: Excellent secondary data
@@ -54,6 +56,7 @@ ng06-015,1951,Monograph,1936,1932-1940,"1932-1933, 1939-1940",204,5: Excellent p
 ng06-061,1962,Monograph,1958,July 1958-July 1959,1958-1959,268,"4: Excellent secondary data
 5: Excellent primary data",0,ng06
 ng06-067,1976,Essay,1935,1930-1940,1930-1940,350,5: Excellent primary data,0,ng06
+ng08-001,1967,Book,1939,"1938, 1940",1611-1940,75,5: Excellent Primary Data,0,ng08
 nh06-013,1944,Journal article ,1938,1932-1944,1930-1944,18,5: Excellent primary data,0,nh06
 nj05-001,1955,Component part(s) monograph,1925,"1911-1912, 1953",1500-1953,515,5: Excellent primary data,1,nj05
 nj05-007,1953,Monograph,1924,"1911-1912, 1950",1534-1950,129,5: Excellent primary data,1,nj05
@@ -70,12 +73,17 @@ oi08-046,1992,Essay,NA,no date,ca. 1900-1960,175,"4: Excellent secondary data
 oi20-001,1960,Monograph,1941,1928-1954,1900-1959,118,4: Excellent secondary data,0,oi20
 oi20-011,1963,Journal article ,1958,"1954, 1962",1900-1962,17,5: Excellent primary data,1,oi20
 oi20-014,1971,Monograph,1956,"1953-1954, and 1962",1914-1962,368,5: Excellent primary data,1,oi20
+om06-001,1930,Book,1928,1928-1929,1928-1929,372,5: Excellent primary data,1,om06
+om06-003,1935,Book,1928,1928-1929,1928-1929,391,5: Excellent primary data,0,om06
+om06-005,1932,Article,1928,1928-1929,1928-1929,17,5: Excellent primary data,1,om06
+om06-008,1991,Book,1982,1978-1986,1978-1986,261,5: Excellent primary data,1,om06
 sf21-001,1950,Component part(s) monograph,1940,1940-1941,1940-1941,104,5: Excellent primary data,0,sf21
 sh04-001,1931,Monograph,1921,1919-1923,not specified,1176,"4: Excellent secondary data
 5: Excellent primary data",0,sh04
 sh04-003,1928,Component part(s) monograph,1924,1924-1925,3 months in the summer of 1924-1925,244,"4: Excellent secondary data
 5: Excellent primary data",0,sh04
 sh04-005,1982,Monograph,1969,"1965, 1966, 1967, 1968-1970, 1972-1974, 1976",variable,195,5: Excellent primary data,1,sh04
+sh05-002,1873,Book,1869,1869-1870,1520-1871,340,5: Excellent primary data,0,sh05
 sh06-001,1937,Component part(s) monograph,1921,1918-1924,1918-1924,1471,5: Excellent primary data,1,sh06
 si04-000,2010,Essay,NA,no date,Not specified,8,4: Excellent secondary data,0,si04
 si04-001,1922,Monograph,1758,1749-1767,1749-1767,446,5: Excellent primary data,0,si04
