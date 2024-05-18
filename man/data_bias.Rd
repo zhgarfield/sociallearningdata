@@ -3,7 +3,7 @@
 \docType{data}
 \name{data_bias}
 \alias{data_bias}
-\title{DATASET_TITLE}
+\title{data_bias}
 \format{
 A data frame with 85 rows and 10 variables:
 \describe{
@@ -26,6 +26,6 @@ A data frame with 85 rows and 10 variables:
 data_bias
 }
 \description{
-DATASET_DESCRIPTION
+Data for meta-ethnographic bias assessment
 }
 \keyword{datasets}
