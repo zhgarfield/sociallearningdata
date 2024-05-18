@@ -224,8 +224,8 @@
 #' @source \url{https://doi.org/10.1007/978-4-431-55997-9_2}
 "data_coded"
 
-#' @title DATASET_TITLE
-#' @description DATASET_DESCRIPTION
+#' @title data_bias
+#' @description Data for meta-ethnographic bias assessment
 #' @format A data frame with 85 rows and 10 variables:
 #' \describe{
 #'   \item{\code{document_id}}{character COLUMN_DESCRIPTION}
