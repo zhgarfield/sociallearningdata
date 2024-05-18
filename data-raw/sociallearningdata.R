@@ -65,7 +65,8 @@ data_culture <- left_join(data_culture, eHRAF_culture_data)
 data_culture <- data_culture %>%
   group_by(culture_id) %>%
   slice(1) %>%
-  ungroup()
+  ungroup() %>%
+  select(-c(`OWC Code`, "SCCS", "SCCS_id", "Subregion", "N_docs"))
 
 
 

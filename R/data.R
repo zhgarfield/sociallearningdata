@@ -1,19 +1,15 @@
 #' @title data_culture
-#' @description Culture-level metadata.
+#' @description Culture-level metadata
 #' @format A data frame with 27 rows and 10 variables:
 #' \describe{
 #'   \item{\code{culture_id}}{character The unique identifier for culture. OWC ID, given by HRAF.}
-#'   \item{\code{OWC Code}}{character The unique identifier for culture. OWC ID, given by HRAF.}
 #'   \item{\code{Name}}{character HRAF given society name.}
 #'   \item{\code{Region}}{character HRAF given continental region.}
 #'   \item{\code{Subregion}}{character HRAF given continental sub-region.}
 #'   \item{\code{Subsistence Type}}{character HRAF given subsistence type.}
-#'   \item{\code{SCCS}}{double COLUMN_DESCRIPTION}
-#'   \item{\code{SCCS_id}}{character COLUMN_DESCRIPTION}
-#'   \item{\code{N_docs}}{double COLUMN_DESCRIPTION}
 #'   \item{\code{N_pages}}{double COLUMN_DESCRIPTION}
 #'}
-#' @source \url{http://somewhere.important.com/}
+#' @source \url{https://ehrafworldcultures.yale.edu/ehrafe/}
 "data_culture"
 
 #' @title data_text
@@ -228,7 +224,7 @@
 #' @description Data for meta-ethnographic bias assessment
 #' @format A data frame with 85 rows and 10 variables:
 #' \describe{
-#'   \item{\code{document_id}}{character COLUMN_DESCRIPTION}
+#'   \item{\code{document_ID}}{character eHRAF document ID}
 #'   \item{\code{document_publication_date}}{integer COLUMN_DESCRIPTION}
 #'   \item{\code{document.type}}{character COLUMN_DESCRIPTION}
 #'   \item{\code{avg.fielddate}}{integer COLUMN_DESCRIPTION}
