@@ -64,3 +64,4 @@ data_culture <- left_join(data_culture, eHRAF_culture_data)
 
 #fin
 usethis::use_data(data_coded, data_text, data_bias, data_culture, overwrite = TRUE)
+
