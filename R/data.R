@@ -1,3 +1,21 @@
+#' @title data_culture
+#' @description Culture-level metadata.
+#' @format A data frame with 27 rows and 10 variables:
+#' \describe{
+#'   \item{\code{culture_id}}{character The unique identifier for culture. OWC ID, given by HRAF.}
+#'   \item{\code{OWC Code}}{character The unique identifier for culture. OWC ID, given by HRAF.}
+#'   \item{\code{Name}}{character HRAF given society name.}
+#'   \item{\code{Region}}{character HRAF given continental region.}
+#'   \item{\code{Subregion}}{character HRAF given continental sub-region.}
+#'   \item{\code{Subsistence Type}}{character HRAF given subsistence type.}
+#'   \item{\code{SCCS}}{double COLUMN_DESCRIPTION}
+#'   \item{\code{SCCS_id}}{character COLUMN_DESCRIPTION}
+#'   \item{\code{N_docs}}{double COLUMN_DESCRIPTION}
+#'   \item{\code{N_pages}}{double COLUMN_DESCRIPTION}
+#'}
+#' @source \url{http://somewhere.important.com/}
+"data_culture"
+
 #' @title data_text
 #' @description Raw text and text-level data
 #' @format A data frame with 164 rows and 180 variables:
@@ -205,3 +223,21 @@
 #'}
 #' @source \url{https://doi.org/10.1007/978-4-431-55997-9_2}
 "data_coded"
+
+#' @title DATASET_TITLE
+#' @description DATASET_DESCRIPTION
+#' @format A data frame with 85 rows and 10 variables:
+#' \describe{
+#'   \item{\code{document_id}}{character COLUMN_DESCRIPTION}
+#'   \item{\code{document_publication_date}}{integer COLUMN_DESCRIPTION}
+#'   \item{\code{document.type}}{character COLUMN_DESCRIPTION}
+#'   \item{\code{avg.fielddate}}{integer COLUMN_DESCRIPTION}
+#'   \item{\code{field.date}}{character COLUMN_DESCRIPTION}
+#'   \item{\code{coverage.date}}{character COLUMN_DESCRIPTION}
+#'   \item{\code{document_page_count}}{integer COLUMN_DESCRIPTION}
+#'   \item{\code{source.evaluation}}{character COLUMN_DESCRIPTION}
+#'   \item{\code{female_coauthorship}}{integer COLUMN_DESCRIPTION}
+#'   \item{\code{culture_id}}{character COLUMN_DESCRIPTION}
+#'}
+#' @source \url{https://ehrafworldcultures.yale.edu/ehrafe/}
+"data_bias"

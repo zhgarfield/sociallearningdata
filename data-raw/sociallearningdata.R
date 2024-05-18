@@ -70,5 +70,5 @@ data_culture <- data_culture %>%
 
 
 #fin
-usethis::use_data(data_coded, data_text, data_bias, data_culture, overwrite = TRUE)
+usethis::use_data(data_culture, data_text, data_coded, data_bias, overwrite = TRUE)
 
