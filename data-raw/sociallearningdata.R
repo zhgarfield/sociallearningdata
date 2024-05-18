@@ -62,6 +62,13 @@ eHRAF_culture_data$culture_id <- stringr::str_to_lower(eHRAF_culture_data$`OWC C
 
 data_culture <- left_join(data_culture, eHRAF_culture_data)
 
+data_culture <- data_culture %>%
+  group_by(culture_id) %>%
+  slice(1) %>%
+  ungroup()
+
+
+
 #fin
 usethis::use_data(data_coded, data_text, data_bias, data_culture, overwrite = TRUE)
 
