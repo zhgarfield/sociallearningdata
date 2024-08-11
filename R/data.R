@@ -2,12 +2,12 @@
 #' @description Culture-level metadata
 #' @format A data frame with 27 rows and 10 variables:
 #' \describe{
-#'   \item{\code{culture_id}}{character The unique identifier for culture. OWC ID, given by HRAF.}
-#'   \item{\code{Name}}{character HRAF given society name.}
-#'   \item{\code{Region}}{character HRAF given continental region.}
-#'   \item{\code{Subregion}}{character HRAF given continental sub-region.}
-#'   \item{\code{Subsistence Type}}{character HRAF given subsistence type.}
-#'   \item{\code{N_pages}}{double COLUMN_DESCRIPTION}
+#'   \item{\code{culture_id}}{character eHRAF-given OWC ID for culture.}
+#'   \item{\code{name}}{character eHRAF-given society name.}
+#'   \item{\code{region}}{character eHRAF-given continental region.}
+#'   \item{\code{subregion}}{character eHRAF-given continental sub-region.}
+#'   \item{\code{subsistence_type}}{character eHRAF-given subsistence type.}
+#'   \item{\code{n_pages}}{double Total number of pages in document.}
 #'}
 #' @source \url{https://ehrafworldcultures.yale.edu/ehrafe/}
 "data_culture"
@@ -146,56 +146,6 @@
 #'   \item{\code{Mortality (165)}}{integer eHRAF OCM code}
 #'   \item{\code{Social control (626)}}{integer eHRAF OCM code}
 #'   \item{\code{General character of religion (771)}}{integer eHRAF OCM code}
-#'   \item{\code{Eschatology (775)}}{integer eHRAF OCM code}
-#'   \item{\code{Personality development (155)}}{integer eHRAF OCM code}
-#'   \item{\code{Theory of disease (753)}}{integer eHRAF OCM code}
-#'   \item{\code{Organized ceremonial (796)}}{integer eHRAF OCM code}
-#'   \item{\code{Locomotion (481)}}{integer eHRAF OCM code}
-#'   \item{\code{Childbirth (844)}}{integer eHRAF OCM code}
-#'   \item{\code{Anthropometry (141)}}{integer eHRAF OCM code}
-#'   \item{\code{Boats (501)}}{integer eHRAF OCM code}
-#'   \item{\code{Property system (421)}}{integer eHRAF OCM code}
-#'   \item{\code{Special languages (198)}}{integer eHRAF OCM code}
-#'   \item{\code{Medium of exchange (436)}}{integer eHRAF OCM code}
-#'   \item{\code{Mode of marriage (583)}}{integer eHRAF OCM code}
-#'   \item{\code{Mourning (765)}}{integer eHRAF OCM code}
-#'   \item{\code{Ceremonial during infancy and childhood (852)}}{integer eHRAF OCM code}
-#'   \item{\code{Dying (763)}}{integer eHRAF OCM code}
-#'   \item{\code{Adjustment processes (154)}}{integer eHRAF OCM code}
-#'   \item{\code{Athletic sports (526)}}{integer eHRAF OCM code}
-#'   \item{\code{Fishing (226)}}{integer eHRAF OCM code}
-#'   \item{\code{Complete texts of hraf documents (116)}}{integer eHRAF OCM code}
-#'   \item{\code{Public education (658)}}{integer eHRAF OCM code}
-#'   \item{\code{Teachers (875)}}{integer eHRAF OCM code}
-#'   \item{\code{Shipbuilding (396)}}{integer eHRAF OCM code}
-#'   \item{\code{Woodworking (322)}}{integer eHRAF OCM code}
-#'   \item{\code{Ontogenetic data (145)}}{integer eHRAF OCM code}
-#'   \item{\code{Ethnophysiology (827)}}{integer eHRAF OCM code}
-#'   \item{\code{Ethnosociology (829)}}{integer eHRAF OCM code}
-#'   \item{\code{Alcoholic beverages (273)}}{integer eHRAF OCM code}
-#'   \item{\code{Aggression training (865)}}{integer eHRAF OCM code}
-#'   \item{\code{Marine hunting (225)}}{integer eHRAF OCM code}
-#'   \item{\code{Tillage (241)}}{integer eHRAF OCM code}
-#'   \item{\code{Diet (262)}}{integer eHRAF OCM code}
-#'   \item{\code{Socialization (860)}}{integer eHRAF OCM code}
-#'   \item{\code{Religious and educational structures (346)}}{integer eHRAF OCM code}
-#'   \item{\code{Independence training (866)}}{integer eHRAF OCM code}
-#'   \item{\code{Basis of marriage (581)}}{integer eHRAF OCM code}
-#'   \item{\code{Avuncular and nepotic relatives (604)}}{integer eHRAF OCM code}
-#'   \item{\code{Spirits and gods (776)}}{integer eHRAF OCM code}
-#'   \item{\code{Congregations (794)}}{integer eHRAF OCM code}
-#'   \item{\code{Weaning and food training (862)}}{integer eHRAF OCM code}
-#'   \item{\code{Menstruation (841)}}{integer eHRAF OCM code}
-#'   \item{\code{Etiquette (576)}}{integer eHRAF OCM code}
-#'   \item{\code{Linguistic identification (197)}}{integer eHRAF OCM code}
-#'   \item{\code{Extended families (596)}}{integer eHRAF OCM code}
-#'   \item{\code{Preservation and storage of food (251)}}{integer eHRAF OCM code}
-#'   \item{\code{Sexual intercourse (833)}}{integer eHRAF OCM code}
-#'   \item{\code{General sex restrictions (834)}}{integer eHRAF OCM code}
-#'   \item{\code{Ingroup antagonisms (578)}}{integer eHRAF OCM code}
-#'   \item{\code{Outbuildings (343)}}{integer eHRAF OCM code}
-#'   \item{\code{Social personality (156)}}{integer eHRAF OCM code}
-#'   \item{\code{Verbal arts (5310)}}{integer eHRAF OCM code}
 #'}
 #' @source \url{https://ehrafworldcultures.yale.edu/ehrafe/}
 "data_text"
@@ -209,11 +159,11 @@
 #'   \item{\code{longitude}}{double Estimated population longitude}
 #'   \item{\code{region}}{character eHRAF Region}
 #'   \item{\code{subregion}}{character eHRAF Subregion}
-#'   \item{\code{age.of.learner}}{character Catigorical age estimation of learner}
+#'   \item{\code{age_of_learner}}{character Categorical age estimation of learner}
 #'   \item{\code{domain}}{character Social domain of learning}
 #'   \item{\code{mode}}{character Mode of social learning}
 #'   \item{\code{process}}{character Process of social learning}
-#'   \item{\code{sex}}{character Gender of learner(s)}
+#'   \item{\code{gender}}{character Gender of learner(s)}
 #'   \item{\code{coding_ID}}{double Internally assigned ID for coding}
 #'   \item{\code{text_record_ID}}{integer Associated text ID}
 #'}
@@ -224,16 +174,17 @@
 #' @description Data for meta-ethnographic bias assessment
 #' @format A data frame with 85 rows and 10 variables:
 #' \describe{
-#'   \item{\code{document_ID}}{character eHRAF document ID}
-#'   \item{\code{document_publication_date}}{integer COLUMN_DESCRIPTION}
-#'   \item{\code{document.type}}{character COLUMN_DESCRIPTION}
-#'   \item{\code{avg.fielddate}}{integer COLUMN_DESCRIPTION}
-#'   \item{\code{field.date}}{character COLUMN_DESCRIPTION}
-#'   \item{\code{coverage.date}}{character COLUMN_DESCRIPTION}
-#'   \item{\code{document_page_count}}{integer COLUMN_DESCRIPTION}
-#'   \item{\code{source.evaluation}}{character COLUMN_DESCRIPTION}
-#'   \item{\code{female_coauthorship}}{integer COLUMN_DESCRIPTION}
-#'   \item{\code{culture_id}}{character COLUMN_DESCRIPTION}
+#'   \item{\code{document_id}}{character eHRAF document ID}
+#'   \item{\code{document_publication_date}}{integer Document publication year.}
+#'   \item{\code{document_type}}{character eHRAF-given document type.}
+#'   \item{\code{avg_fielddate}}{integer eHRAF-given average year of field date range for document.}
+#'   \item{\code{field_date}}{character eHRAF-given field data range for document.}
+#'   \item{\code{coverage_date}}{character eHRAF-given time coverage span of document.}
+#'   \item{\code{document_page_count}}{integer Document page count.}
+#'   \item{\code{source_evaluation}}{character eHRAF document source evaluation.}
+#'   \item{\code{female_coauthorship}}{integer If a women author or co-author is present. 1 indicates a women is author or co-author.}
+#'   \item{\code{culture_id}}{character eHRAF-given OWC ID for culture.}
+#'   \item{\code{author_identification}}{character eHRAF-given author type.}
 #'}
 #' @source \url{https://ehrafworldcultures.yale.edu/ehrafe/}
 "data_bias"

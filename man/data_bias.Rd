@@ -7,16 +7,17 @@
 \format{
 A data frame with 85 rows and 10 variables:
 \describe{
-\item{\code{document_id}}{character COLUMN_DESCRIPTION}
-\item{\code{document_publication_date}}{integer COLUMN_DESCRIPTION}
-\item{\code{document.type}}{character COLUMN_DESCRIPTION}
-\item{\code{avg.fielddate}}{integer COLUMN_DESCRIPTION}
-\item{\code{field.date}}{character COLUMN_DESCRIPTION}
-\item{\code{coverage.date}}{character COLUMN_DESCRIPTION}
-\item{\code{document_page_count}}{integer COLUMN_DESCRIPTION}
-\item{\code{source.evaluation}}{character COLUMN_DESCRIPTION}
-\item{\code{female_coauthorship}}{integer COLUMN_DESCRIPTION}
-\item{\code{culture_id}}{character COLUMN_DESCRIPTION}
+\item{\code{document_id}}{character eHRAF document ID}
+\item{\code{document_publication_date}}{integer Document publication year.}
+\item{\code{document_type}}{character eHRAF-given document type.}
+\item{\code{avg_fielddate}}{integer eHRAF-given average year of field date range for document.}
+\item{\code{field_date}}{character eHRAF-given field data range for document.}
+\item{\code{coverage_date}}{character eHRAF-given time coverage span of document.}
+\item{\code{document_page_count}}{integer Document page count.}
+\item{\code{source_evaluation}}{character eHRAF document source evaluation.}
+\item{\code{female_coauthorship}}{integer If a women author or co-author is present. 1 indicates a women is author or co-author.}
+\item{\code{culture_id}}{character eHRAF-given OWC ID for culture.}
+\item{\code{author_identification}}{character eHRAF-given author type.}
 }
 }
 \source{

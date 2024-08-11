@@ -12,11 +12,11 @@ A data frame with 281 rows and 12 variables:
 \item{\code{longitude}}{double Estimated population longitude}
 \item{\code{region}}{character eHRAF Region}
 \item{\code{subregion}}{character eHRAF Subregion}
-\item{\code{age.of.learner}}{character Catigorical age estimation of learner}
+\item{\code{age_of_learner}}{character Categorical age estimation of learner}
 \item{\code{domain}}{character Social domain of learning}
 \item{\code{mode}}{character Mode of social learning}
 \item{\code{process}}{character Process of social learning}
-\item{\code{sex}}{character Gender of learner(s)}
+\item{\code{gender}}{character Gender of learner(s)}
 \item{\code{coding_ID}}{double Internally assigned ID for coding}
 \item{\code{text_record_ID}}{integer Associated text ID}
 }

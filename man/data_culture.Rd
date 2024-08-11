@@ -7,25 +7,21 @@
 \format{
 A data frame with 27 rows and 10 variables:
 \describe{
-\item{\code{culture_id}}{character The unique identifier for culture. OWC ID, given by HRAF.}
-\item{\code{OWC Code}}{character The unique identifier for culture. OWC ID, given by HRAF.}
-\item{\code{Name}}{character HRAF given society name.}
-\item{\code{Region}}{character HRAF given continental region.}
-\item{\code{Subregion}}{character HRAF given continental sub-region.}
-\item{\code{Subsistence Type}}{character HRAF given subsistence type.}
-\item{\code{SCCS}}{double COLUMN_DESCRIPTION}
-\item{\code{SCCS_id}}{character COLUMN_DESCRIPTION}
-\item{\code{N_docs}}{double COLUMN_DESCRIPTION}
-\item{\code{N_pages}}{double COLUMN_DESCRIPTION}
+\item{\code{culture_id}}{character eHRAF-given OWC ID for culture.}
+\item{\code{name}}{character eHRAF-given society name.}
+\item{\code{region}}{character eHRAF-given continental region.}
+\item{\code{subregion}}{character eHRAF-given continental sub-region.}
+\item{\code{subsistence_type}}{character eHRAF-given subsistence type.}
+\item{\code{n_pages}}{double Total number of pages in document.}
 }
 }
 \source{
-\url{http://somewhere.important.com/}
+\url{https://ehrafworldcultures.yale.edu/ehrafe/}
 }
 \usage{
 data_culture
 }
 \description{
-Culture-level metadata.
+Culture-level metadata
 }
 \keyword{datasets}

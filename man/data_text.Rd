@@ -137,56 +137,6 @@ A data frame with 164 rows and 180 variables:
 \item{\code{Mortality (165)}}{integer eHRAF OCM code}
 \item{\code{Social control (626)}}{integer eHRAF OCM code}
 \item{\code{General character of religion (771)}}{integer eHRAF OCM code}
-\item{\code{Eschatology (775)}}{integer eHRAF OCM code}
-\item{\code{Personality development (155)}}{integer eHRAF OCM code}
-\item{\code{Theory of disease (753)}}{integer eHRAF OCM code}
-\item{\code{Organized ceremonial (796)}}{integer eHRAF OCM code}
-\item{\code{Locomotion (481)}}{integer eHRAF OCM code}
-\item{\code{Childbirth (844)}}{integer eHRAF OCM code}
-\item{\code{Anthropometry (141)}}{integer eHRAF OCM code}
-\item{\code{Boats (501)}}{integer eHRAF OCM code}
-\item{\code{Property system (421)}}{integer eHRAF OCM code}
-\item{\code{Special languages (198)}}{integer eHRAF OCM code}
-\item{\code{Medium of exchange (436)}}{integer eHRAF OCM code}
-\item{\code{Mode of marriage (583)}}{integer eHRAF OCM code}
-\item{\code{Mourning (765)}}{integer eHRAF OCM code}
-\item{\code{Ceremonial during infancy and childhood (852)}}{integer eHRAF OCM code}
-\item{\code{Dying (763)}}{integer eHRAF OCM code}
-\item{\code{Adjustment processes (154)}}{integer eHRAF OCM code}
-\item{\code{Athletic sports (526)}}{integer eHRAF OCM code}
-\item{\code{Fishing (226)}}{integer eHRAF OCM code}
-\item{\code{Complete texts of hraf documents (116)}}{integer eHRAF OCM code}
-\item{\code{Public education (658)}}{integer eHRAF OCM code}
-\item{\code{Teachers (875)}}{integer eHRAF OCM code}
-\item{\code{Shipbuilding (396)}}{integer eHRAF OCM code}
-\item{\code{Woodworking (322)}}{integer eHRAF OCM code}
-\item{\code{Ontogenetic data (145)}}{integer eHRAF OCM code}
-\item{\code{Ethnophysiology (827)}}{integer eHRAF OCM code}
-\item{\code{Ethnosociology (829)}}{integer eHRAF OCM code}
-\item{\code{Alcoholic beverages (273)}}{integer eHRAF OCM code}
-\item{\code{Aggression training (865)}}{integer eHRAF OCM code}
-\item{\code{Marine hunting (225)}}{integer eHRAF OCM code}
-\item{\code{Tillage (241)}}{integer eHRAF OCM code}
-\item{\code{Diet (262)}}{integer eHRAF OCM code}
-\item{\code{Socialization (860)}}{integer eHRAF OCM code}
-\item{\code{Religious and educational structures (346)}}{integer eHRAF OCM code}
-\item{\code{Independence training (866)}}{integer eHRAF OCM code}
-\item{\code{Basis of marriage (581)}}{integer eHRAF OCM code}
-\item{\code{Avuncular and nepotic relatives (604)}}{integer eHRAF OCM code}
-\item{\code{Spirits and gods (776)}}{integer eHRAF OCM code}
-\item{\code{Congregations (794)}}{integer eHRAF OCM code}
-\item{\code{Weaning and food training (862)}}{integer eHRAF OCM code}
-\item{\code{Menstruation (841)}}{integer eHRAF OCM code}
-\item{\code{Etiquette (576)}}{integer eHRAF OCM code}
-\item{\code{Linguistic identification (197)}}{integer eHRAF OCM code}
-\item{\code{Extended families (596)}}{integer eHRAF OCM code}
-\item{\code{Preservation and storage of food (251)}}{integer eHRAF OCM code}
-\item{\code{Sexual intercourse (833)}}{integer eHRAF OCM code}
-\item{\code{General sex restrictions (834)}}{integer eHRAF OCM code}
-\item{\code{Ingroup antagonisms (578)}}{integer eHRAF OCM code}
-\item{\code{Outbuildings (343)}}{integer eHRAF OCM code}
-\item{\code{Social personality (156)}}{integer eHRAF OCM code}
-\item{\code{Verbal arts (5310)}}{integer eHRAF OCM code}
 }
 }
 \source{

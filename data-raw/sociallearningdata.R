@@ -13,6 +13,13 @@ data_coded <- read.csv("data-raw/ct_analyses2.csv")
 data_text <- read.csv("data-raw/text_eHRAF_CT_HG.2.csv", header = TRUE)
 data_bias <- read.csv("data-raw/bias_data.csv", header = TRUE)
 
+tmp <- read.csv("data-raw/ct_texts.csv") %>% #read to add author identification
+  dplyr::select("document.id", "author.identification") %>%
+  mutate(document_id = document.id) %>%
+  dplyr::select("document_id", "author.identification")
+
+data_bias <- left_join(data_bias, tmp)
+
 
 
 # Variable management -----------------------------------------------------
@@ -68,7 +75,15 @@ data_culture <- data_culture %>%
   ungroup() %>%
   select(-c(`OWC Code`, "SCCS", "SCCS_id", "Subregion", "N_docs"))
 
+## Clean up names
+names(data_culture) <- gsub(" ", "_", tolower(names(data_culture)))
 
+# Replace dots with underscores in "age.of.learner"
+names(data_coded) <- gsub("age.of.learner", "age_of_learner", names(data_coded))
+# Replace "sex" with "gender"
+names(data_coded) <- gsub("sex", "gender", names(data_coded))
+
+names(data_bias) <- gsub("\\.", "_", names(data_bias))
 
 #fin
 usethis::use_data(data_culture, data_text, data_coded, data_bias, overwrite = TRUE)
