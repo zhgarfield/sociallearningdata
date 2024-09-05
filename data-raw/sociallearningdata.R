@@ -86,5 +86,5 @@ names(data_coded) <- gsub("sex", "gender", names(data_coded))
 names(data_bias) <- gsub("\\.", "_", names(data_bias))
 
 #fin
-usethis::use_data(data_culture, data_text, data_coded, data_bias, overwrite = TRUE)
+usethis::use_data(data_culture, data_coded, data_bias, data_text, overwrite = TRUE)
 
