@@ -5,8 +5,6 @@
 library(tidyverse)
 library(stringi)
 
-
-
 # Read data ---------------------------------------------------------------
 
 data_coded <- read.csv("data-raw/coded_data.csv")
