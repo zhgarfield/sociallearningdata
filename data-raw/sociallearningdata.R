@@ -9,11 +9,11 @@ library(stringi)
 
 # Read data ---------------------------------------------------------------
 
-data_coded <- read.csv("data-raw/ct_analyses2.csv")
-data_text <- read.csv("data-raw/text_eHRAF_CT_HG.2.csv", header = TRUE)
+data_coded <- read.csv("data-raw/coded_data.csv")
+data_text <- read.csv("data-raw/raw_text.csv", header = TRUE)
 data_bias <- read.csv("data-raw/bias_data.csv", header = TRUE)
 
-tmp <- read.csv("data-raw/ct_texts.csv") %>% #read to add author identification
+tmp <- read.csv("data-raw/document_data.csv") %>% #read to add author identification
   dplyr::select("document.id", "author.identification") %>%
   mutate(document_id = document.id) %>%
   dplyr::select("document_id", "author.identification")
